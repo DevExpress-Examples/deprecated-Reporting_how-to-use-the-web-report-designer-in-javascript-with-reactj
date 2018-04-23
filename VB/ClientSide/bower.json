@@ -1,0 +1,17 @@
+{
+  "name": "js-designer-example-react",
+  "version": "1.0.0",
+  "description": "HTML Report Designer usage example",
+  "dependencies": {
+    "xtrareportsjs": "~17.1.6",
+    "react": "latest",
+    "babel": "latest"
+  },
+  "authors": [
+    "DevExpress"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
